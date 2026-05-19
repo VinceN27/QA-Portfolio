@@ -10,7 +10,7 @@ Working towards attainging ISTBQ Foundation Level Certification
 ### 1) Open Cart - User Registration Manual Testing
 - Executed 7 test cases on user registration feature
 - Identified and documented 2 bugs
-- [View Test Cases and Bug Reports](user-registration-testing.md)
+- [View Test Cases and Bug Reports](User-registration-testing.md)
 
 ## Skills
 - Manual Testing
